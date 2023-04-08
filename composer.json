@@ -3,6 +3,7 @@
     "description": "Laravel CRUD Builder",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Adtyrzq\\LaravelBuilder\\": "src/"
@@ -14,5 +15,7 @@
             "email": "me@gwadit.net"
         }
     ],
-    "require": {}
+    "require": {
+        "adtyrzq/laravel-builder": "1.0.0"
+    }
 }
