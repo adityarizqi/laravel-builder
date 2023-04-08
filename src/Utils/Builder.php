@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Utils;
+namespace Adtyrzq\Utils;
 
 use App\Utils\Upload;
 use Illuminate\Support\Facades\Validator as FacadesValidator;

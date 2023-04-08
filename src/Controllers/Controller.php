@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace Adtyrzq\Controllers;
 
 use App\Utils\Builder;
 use Illuminate\Support\Facades\Schema;
