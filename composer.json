@@ -1,0 +1,18 @@
+{
+    "name": "adtyrzq/laravel-builder",
+    "description": "Laravel CRUD Builder",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Adtyrzq\\LaravelBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aditya Rizqi",
+            "email": "me@gwadit.net"
+        }
+    ],
+    "require": {}
+}
